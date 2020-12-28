@@ -15,7 +15,7 @@ markets. I embed a model of heterogeneous agents with occupational choice betwee
 an otherwise standard small open economy real business cycle model. The baseline model is able to capture heterogeneity at the household level as
 well as business cycle dynamics at the aggregate level.
 
-- **Did Michigan Suffer a Greater Great Depression?}" (with Mario Crucini and Dong Cheng)** \\
+- **Did Michigan Suffer a Greater Great Depression?" (with Dong Cheng and Mario Crucini)** \\
 *Abstract*: We develop a three-sector, two-region model of durable goods and apply this model to study business cycle dynamics across regions of the U.S. during the Great Depression. The focus is on the ability of the durable goods channel coupled with specialization across regions to generate different cyclical amplitudes across durable good exporting and importing regions.
 
 - **Is a Floating Exchange Rate Regime Desirable?** \\
