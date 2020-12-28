@@ -2,10 +2,19 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Here is a list of courses that I TA'd or taught
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Teaching Assistant ##
+*Undergraduate*
+- Principles of Macroeconomics
+- Intermediate Macroeconomics
+- Intermediate Microeconomics
+- International Finance
+*Graduate*
+- Macroeconomics Theory II
+- Macroeconomics Theory III
 
-Organize your courses by years, topics, or universities, however you like!
+## Instructor ##
+- Intermediate Macroeconomics (UG)
