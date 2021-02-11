@@ -17,5 +17,7 @@ nav: true
 - Macroeconomics Theory II
 - Macroeconomics Theory III
 
+<!---
 ## Instructor
 - Intermediate Macroeconomics (UG)
+--> 

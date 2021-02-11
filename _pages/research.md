@@ -9,11 +9,12 @@ nav: true
 
 ## Working Papers
 - **Entrepreneurs, Financial Crisis, and Inequality in Emerging Markets** \\
-*Abstract*: What is the role of entrepreneurs in explaining income inequality during a financial crisis in emerging markets? I empirically
-document the importance of entrepreneurs at the household level in explaining the rise in income inequality during a financial crisis in emerging
-markets. I embed a model of heterogeneous agents with occupational choice between formal entrepreneurs, informal entrepreneurs, and workers into
-an otherwise standard small open economy real business cycle model. The baseline model is able to capture heterogeneity at the household level as
-well as business cycle dynamics at the aggregate level.
+*Abstract* I investigate how entrepreneurs shape distributional implications during a sudden stop. Using Argentina from 1998 to 2002 as a 
+case study, this paper finds significant heterogeneity in household responses to a sudden stop across the income distribution as well as 
+occupation groups. Motivated by this fact, I develop a heterogeneous agent model with an occupational choice between workers, self-employed 
+entrepreneurs, and employer entrepreneurs in a small open economy real business cycle framework. The model correctly captures crucial aspects 
+of the population distribution and predicts a rise in income inequality due to a crisis. Further steps to be undertaken in this research 
+include proper calibration and policy analysis.
 
 - **Did Michigan Suffer a Greater Great Depression?" (with Dong Cheng and Mario Crucini)** \\
 *Abstract*: We develop a three-sector, two-region model of durable goods and apply this model to study business cycle dynamics across regions of the U.S. during the Great Depression. The focus is on the ability of the durable goods channel coupled with specialization across regions to generate different cyclical amplitudes across durable good exporting and importing regions.
