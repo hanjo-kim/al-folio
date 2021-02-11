@@ -14,7 +14,7 @@ case study, this paper finds significant heterogeneity in household responses to
 occupation groups. Motivated by this fact, I develop a heterogeneous agent model with an occupational choice between workers, self-employed 
 entrepreneurs, and employer entrepreneurs in a small open economy real business cycle framework. The model correctly captures crucial aspects 
 of the population distribution and predicts a rise in income inequality due to a crisis. Further steps to be undertaken in this research 
-include proper calibration and policy analysis.
+include proper calibration and policy analysis. 
 
 - **Did Michigan Suffer a Greater Great Depression?" (with Dong Cheng and Mario Crucini)** \\
 *Abstract*: We develop a three-sector, two-region model of durable goods and apply this model to study business cycle dynamics across regions of the U.S. during the Great Depression. The focus is on the ability of the durable goods channel coupled with specialization across regions to generate different cyclical amplitudes across durable good exporting and importing regions.
